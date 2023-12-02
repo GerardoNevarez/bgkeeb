@@ -3,4 +3,5 @@
   (lib (name "bgkeeb-rescue")(type "KiCad")(uri "${KIPRJMOD}/bgkeeb-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "xiao-rp2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/fingerpunch.sym/xiao-rp2040.kicad_sym")(options "")(descr ""))
   (lib (name "fingerpunch")(type "KiCad")(uri "${KIPRJMOD}/libraries/fingerpunch.sym/fingerpunch.kicad_sym")(options "")(descr ""))
+  (lib (name "theseus")(type "KiCad")(uri "${KIPRJMOD}/libraries/theseus.kicad_sym")(options "")(descr ""))
 )
